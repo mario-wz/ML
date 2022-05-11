@@ -1,1 +1,1 @@
-ML practice repo
+Machine learning practice repo
